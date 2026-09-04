@@ -1,0 +1,7 @@
+
+    The AI Assistant system is built with a hybrid approach:
+    - Local LLM: Llama 3.1 8B served via Ollama for privacy and offline tasks.
+    - Vector Database: ChromaDB for storing and retrieving document embeddings.
+    - RAG Architecture: Augments LLM responses using semantic search over knowledge bases.
+    - Tool Integration: Executes dynamic python functions to compute system metrics.
+    
